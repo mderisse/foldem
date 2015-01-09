@@ -1,6 +1,6 @@
 # p "hello"
 
-def hello
+def goodbye
   p "hello"
-  p "goodbye"
+  p "adios"
 end
